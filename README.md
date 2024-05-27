@@ -357,6 +357,7 @@ File name: 14572.txt, similarity value: 0.125654969092091
 File name: 14497.txt, similarity value: 0.122535489022774
 ```
 17163.txt - Stories from the New Testament
+<br>
 15185.txt - Quiet Talks on John's Gospel
 
 **Conlusion:** 
