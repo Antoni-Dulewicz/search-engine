@@ -16,7 +16,7 @@ I downloaded books as .txt files and only in english from Project Gutenberg usin
 Theese are the steps I followed to create a search engine:
 <ol>
 <li>Create dictionary with words in all books</li>
-<li>For each document create vector "bag-of-words which contains frequency of instances of given word in document"</li>
+<li>For each document create vector "bag-of-words" which contains frequency of instances of given word in document</li>
 <li>Create "term-by-document" matrix made of "bag-of-words" vectors</li>
 <li>Inverse document frequency - reducing importance of words with high frequency</li>
 </ol> 
