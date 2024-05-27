@@ -190,6 +190,7 @@ def create_term_by_document_matrix(folder_path,with_idf = True):
 **Search engine** works by calculating cosine similarity between query and each document and returning the most similar documents:
 
 Similarity function:
+<br>
 ![similarity function](./images_for_readme/function.png)
 
 q - query vector
