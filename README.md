@@ -194,8 +194,11 @@ Similarity function:
 ![similarity function](./images_for_readme/function.png)
 
 q - query vector
+<br>
 d_j - j-th bag-of-words vector
+<br>
 q^T - transposed query vector
+<br>
 
 ```python
 
